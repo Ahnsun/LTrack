@@ -1,6 +1,6 @@
 # LTrack: Generalizing Multiple Object Tracking to Unseen Domains by Introducing Natural Language Representation
 
-This repository is an official implementation of the paper [LTrack: Generalizing Multiple Object Tracking to Unseen Domains by Introducing Natural Language Representation](https://arxiv.org/pdf/2212.01568.pdf).
+This repository is an official implementation of the AAAI-2023 accepted paper [LTrack: Generalizing Multiple Object Tracking to Unseen Domains by Introducing Natural Language Representation](https://arxiv.org/pdf/2212.01568.pdf).
 
 ## Introduction
 
@@ -156,7 +156,7 @@ sh configs/r50_motr_eval_bdd100k.sh
 
 
 
-## Citing MOTR
+## Citing LTrack
 If you find LTrack useful in your research, please consider citing:
 ```bibtex
 @inproceedings{yu2023generalizing,
