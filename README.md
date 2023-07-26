@@ -1,6 +1,6 @@
 # LTrack: Generalizing Multiple Object Tracking to Unseen Domains by Introducing Natural Language Representation
 
-This repository is an official implementation of the paper [LTrack: Generalizing Multiple Object Tracking to Unseen Domains by Introducing Natural Language Representation](https://arxiv.org/pdf/2105.03247.pdf).
+This repository is an official implementation of the paper [LTrack: Generalizing Multiple Object Tracking to Unseen Domains by Introducing Natural Language Representation](https://arxiv.org/pdf/2212.01568.pdf).
 
 ## Introduction
 
